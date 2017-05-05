@@ -5,6 +5,7 @@ import java.awt.*;
 import java.awt.event.*;
 import java.io.IOException;
 
+@SuppressWarnings("serial")
 class MyFrame extends JFrame {
 	
 	private MyThread timer = null;
